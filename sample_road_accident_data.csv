@@ -1,0 +1,101 @@
+Accident_ID,Accident_Date,Vehicle_Type,Casualty_Severity,Road_Type,Road_Surface,Location,Light_Conditions
+1,2022-01-01,Car,Slight,Single carriageway,Dry,Urban,Daylight
+2,2022-01-02,Bike,Serious,Dual carriageway,Wet,Rural,Dark
+3,2022-01-03,Truck,Fatal,Roundabout,Snow/Fog,Urban,Daylight
+4,2022-01-04,Bus,Slight,One way street,Dry,Rural,Dark
+5,2022-01-05,Cycle,Serious,Slip road,Wet,Urban,Daylight
+6,2022-01-06,Car,Fatal,Single carriageway,Snow/Fog,Rural,Dark
+7,2022-01-07,Bike,Slight,Dual carriageway,Dry,Urban,Daylight
+8,2022-01-08,Truck,Serious,Roundabout,Wet,Rural,Dark
+9,2022-01-09,Bus,Fatal,One way street,Snow/Fog,Urban,Daylight
+10,2022-01-10,Cycle,Slight,Slip road,Dry,Rural,Dark
+11,2022-01-11,Car,Serious,Single carriageway,Wet,Urban,Daylight
+12,2022-01-12,Bike,Fatal,Dual carriageway,Snow/Fog,Rural,Dark
+13,2022-01-13,Truck,Slight,Roundabout,Dry,Urban,Daylight
+14,2022-01-14,Bus,Serious,One way street,Wet,Rural,Dark
+15,2022-01-15,Cycle,Fatal,Slip road,Snow/Fog,Urban,Daylight
+16,2022-01-16,Car,Slight,Single carriageway,Dry,Rural,Dark
+17,2022-01-17,Bike,Serious,Dual carriageway,Wet,Urban,Daylight
+18,2022-01-18,Truck,Fatal,Roundabout,Snow/Fog,Rural,Dark
+19,2022-01-19,Bus,Slight,One way street,Dry,Urban,Daylight
+20,2022-01-20,Cycle,Serious,Slip road,Wet,Rural,Dark
+21,2022-01-21,Car,Fatal,Single carriageway,Snow/Fog,Urban,Daylight
+22,2022-01-22,Bike,Slight,Dual carriageway,Dry,Rural,Dark
+23,2022-01-23,Truck,Serious,Roundabout,Wet,Urban,Daylight
+24,2022-01-24,Bus,Fatal,One way street,Snow/Fog,Rural,Dark
+25,2022-01-25,Cycle,Slight,Slip road,Dry,Urban,Daylight
+26,2022-01-26,Car,Serious,Single carriageway,Wet,Rural,Dark
+27,2022-01-27,Bike,Fatal,Dual carriageway,Snow/Fog,Urban,Daylight
+28,2022-01-28,Truck,Slight,Roundabout,Dry,Rural,Dark
+29,2022-01-29,Bus,Serious,One way street,Wet,Urban,Daylight
+30,2022-01-30,Cycle,Fatal,Slip road,Snow/Fog,Rural,Dark
+31,2022-01-31,Car,Slight,Single carriageway,Dry,Urban,Daylight
+32,2022-02-01,Bike,Serious,Dual carriageway,Wet,Rural,Dark
+33,2022-02-02,Truck,Fatal,Roundabout,Snow/Fog,Urban,Daylight
+34,2022-02-03,Bus,Slight,One way street,Dry,Rural,Dark
+35,2022-02-04,Cycle,Serious,Slip road,Wet,Urban,Daylight
+36,2022-02-05,Car,Fatal,Single carriageway,Snow/Fog,Rural,Dark
+37,2022-02-06,Bike,Slight,Dual carriageway,Dry,Urban,Daylight
+38,2022-02-07,Truck,Serious,Roundabout,Wet,Rural,Dark
+39,2022-02-08,Bus,Fatal,One way street,Snow/Fog,Urban,Daylight
+40,2022-02-09,Cycle,Slight,Slip road,Dry,Rural,Dark
+41,2022-02-10,Car,Serious,Single carriageway,Wet,Urban,Daylight
+42,2022-02-11,Bike,Fatal,Dual carriageway,Snow/Fog,Rural,Dark
+43,2022-02-12,Truck,Slight,Roundabout,Dry,Urban,Daylight
+44,2022-02-13,Bus,Serious,One way street,Wet,Rural,Dark
+45,2022-02-14,Cycle,Fatal,Slip road,Snow/Fog,Urban,Daylight
+46,2022-02-15,Car,Slight,Single carriageway,Dry,Rural,Dark
+47,2022-02-16,Bike,Serious,Dual carriageway,Wet,Urban,Daylight
+48,2022-02-17,Truck,Fatal,Roundabout,Snow/Fog,Rural,Dark
+49,2022-02-18,Bus,Slight,One way street,Dry,Urban,Daylight
+50,2022-02-19,Cycle,Serious,Slip road,Wet,Rural,Dark
+51,2022-02-20,Car,Fatal,Single carriageway,Snow/Fog,Urban,Daylight
+52,2022-02-21,Bike,Slight,Dual carriageway,Dry,Rural,Dark
+53,2022-02-22,Truck,Serious,Roundabout,Wet,Urban,Daylight
+54,2022-02-23,Bus,Fatal,One way street,Snow/Fog,Rural,Dark
+55,2022-02-24,Cycle,Slight,Slip road,Dry,Urban,Daylight
+56,2022-02-25,Car,Serious,Single carriageway,Wet,Rural,Dark
+57,2022-02-26,Bike,Fatal,Dual carriageway,Snow/Fog,Urban,Daylight
+58,2022-02-27,Truck,Slight,Roundabout,Dry,Rural,Dark
+59,2022-02-28,Bus,Serious,One way street,Wet,Urban,Daylight
+60,2022-03-01,Cycle,Fatal,Slip road,Snow/Fog,Rural,Dark
+61,2022-03-02,Car,Slight,Single carriageway,Dry,Urban,Daylight
+62,2022-03-03,Bike,Serious,Dual carriageway,Wet,Rural,Dark
+63,2022-03-04,Truck,Fatal,Roundabout,Snow/Fog,Urban,Daylight
+64,2022-03-05,Bus,Slight,One way street,Dry,Rural,Dark
+65,2022-03-06,Cycle,Serious,Slip road,Wet,Urban,Daylight
+66,2022-03-07,Car,Fatal,Single carriageway,Snow/Fog,Rural,Dark
+67,2022-03-08,Bike,Slight,Dual carriageway,Dry,Urban,Daylight
+68,2022-03-09,Truck,Serious,Roundabout,Wet,Rural,Dark
+69,2022-03-10,Bus,Fatal,One way street,Snow/Fog,Urban,Daylight
+70,2022-03-11,Cycle,Slight,Slip road,Dry,Rural,Dark
+71,2022-03-12,Car,Serious,Single carriageway,Wet,Urban,Daylight
+72,2022-03-13,Bike,Fatal,Dual carriageway,Snow/Fog,Rural,Dark
+73,2022-03-14,Truck,Slight,Roundabout,Dry,Urban,Daylight
+74,2022-03-15,Bus,Serious,One way street,Wet,Rural,Dark
+75,2022-03-16,Cycle,Fatal,Slip road,Snow/Fog,Urban,Daylight
+76,2022-03-17,Car,Slight,Single carriageway,Dry,Rural,Dark
+77,2022-03-18,Bike,Serious,Dual carriageway,Wet,Urban,Daylight
+78,2022-03-19,Truck,Fatal,Roundabout,Snow/Fog,Rural,Dark
+79,2022-03-20,Bus,Slight,One way street,Dry,Urban,Daylight
+80,2022-03-21,Cycle,Serious,Slip road,Wet,Rural,Dark
+81,2022-03-22,Car,Fatal,Single carriageway,Snow/Fog,Urban,Daylight
+82,2022-03-23,Bike,Slight,Dual carriageway,Dry,Rural,Dark
+83,2022-03-24,Truck,Serious,Roundabout,Wet,Urban,Daylight
+84,2022-03-25,Bus,Fatal,One way street,Snow/Fog,Rural,Dark
+85,2022-03-26,Cycle,Slight,Slip road,Dry,Urban,Daylight
+86,2022-03-27,Car,Serious,Single carriageway,Wet,Rural,Dark
+87,2022-03-28,Bike,Fatal,Dual carriageway,Snow/Fog,Urban,Daylight
+88,2022-03-29,Truck,Slight,Roundabout,Dry,Rural,Dark
+89,2022-03-30,Bus,Serious,One way street,Wet,Urban,Daylight
+90,2022-03-31,Cycle,Fatal,Slip road,Snow/Fog,Rural,Dark
+91,2022-04-01,Car,Slight,Single carriageway,Dry,Urban,Daylight
+92,2022-04-02,Bike,Serious,Dual carriageway,Wet,Rural,Dark
+93,2022-04-03,Truck,Fatal,Roundabout,Snow/Fog,Urban,Daylight
+94,2022-04-04,Bus,Slight,One way street,Dry,Rural,Dark
+95,2022-04-05,Cycle,Serious,Slip road,Wet,Urban,Daylight
+96,2022-04-06,Car,Fatal,Single carriageway,Snow/Fog,Rural,Dark
+97,2022-04-07,Bike,Slight,Dual carriageway,Dry,Urban,Daylight
+98,2022-04-08,Truck,Serious,Roundabout,Wet,Rural,Dark
+99,2022-04-09,Bus,Fatal,One way street,Snow/Fog,Urban,Daylight
+100,2022-04-10,Cycle,Slight,Slip road,Dry,Rural,Dark
